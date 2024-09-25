@@ -1,0 +1,9 @@
+{
+  "save_Folder": "C:\\Users\\eateb\\Desktop\\my school storys\\save_Folder",
+  "format_file": "C:\\Users\\eateb\\Desktop\\my school storys\\format.txt",
+  "weekdays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+
+  "teachers": {
+    "math": ""
+  }
+}
